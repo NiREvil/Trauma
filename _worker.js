@@ -1,6 +1,6 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
-let password = 'auto';
+let password = 'admin@1389';
 let proxyIP = '';// 'ni.radically.pro';
 
 let addresses = [
